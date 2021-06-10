@@ -52,5 +52,5 @@ daytype = False
 if 3 >= dt <= 15 or not daytype:
     print("No idea what i am doing")
 else:
-    print("I am crazy bugger")
+    print("I am crazy bugger nowing")
 
