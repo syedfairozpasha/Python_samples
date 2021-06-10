@@ -44,3 +44,13 @@ elif age>=12<18:
     print("12+ for vaccination")
 else:
     print("Not valid for any vaccination")
+
+dt = 25
+aj=5
+daytype = False
+
+if 3 >= dt <= 15 or not daytype:
+    print("No idea what i am doing")
+else:
+    print("I am crazy bugger")
+
